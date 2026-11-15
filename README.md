@@ -3,7 +3,7 @@
 A responsive flight seat selection and ancillary booking web application built with **React**, **Vite**, and **Tailwind CSS**. Designed around an aircraft fuselage cabin interface, **Kleio-Aer** supports dynamic aircraft configuration switching (`3-2` narrowbody vs. `2-3-2` widebody), multi-passenger seat and meal assignment, and real-time fare calculation.
 
 - **GitHub Repository:** [github.com/User-Adarsh007/kleio-Aer-seat-selector](https://github.com/User-Adarsh007/kleio-Aer-seat-selector)
-- **Live Demo (Vercel):** *Deploying shortly*
+- **Live Demo (Vercel):** https://kleio-aer-seat-selector.vercel.app
 
 ---
 
