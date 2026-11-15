@@ -1,6 +1,5 @@
 import { UserPlus, Trash2, Utensils, Armchair } from "lucide-react";
-import { MEAL_OPTIONS } from "../data/mockFlightData";
-
+import { MEAL_OPTIONS } from "../data/MockFlightData";
 export default function PassengerPanel({
   passengers,
   activePassengerId,

@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { Plane, RotateCcw, CheckCircle2, X } from "lucide-react";
-import { FLIGHT_CONFIGS, MEAL_OPTIONS } from "./data/mockFlightData";
-import SeatMap from "./components/seatMap";
-import PassengerPanel from "./components/passengerPanel";
-import PriceSummary from "./components/priceSummary";
+import { FLIGHT_CONFIGS, MEAL_OPTIONS } from "./data/MockFlightData";
+import SeatMap from "./components/SeatMap";
+import PassengerPanel from "./components/PassengerPanel";
+import PriceSummary from "./components/PriceSummary";
 
 const INITIAL_PASSENGERS = [
   { id: 1, name: "Passenger 1", seatId: null, mealId: "none" },

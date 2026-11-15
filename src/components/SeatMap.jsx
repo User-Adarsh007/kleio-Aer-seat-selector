@@ -1,4 +1,4 @@
-import Seat from "./seat";
+import Seat from "./Seat";
 
 export default function SeatMap({
   config,

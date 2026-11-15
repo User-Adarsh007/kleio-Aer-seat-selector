@@ -1,5 +1,5 @@
 import { CheckCircle2 } from "lucide-react";
-import { MEAL_OPTIONS } from "../data/mockFlightData";
+import { MEAL_OPTIONS } from "../data/MockFlightData";
 
 const BASE_FARE_PER_PASSENGER = 3500;
 
